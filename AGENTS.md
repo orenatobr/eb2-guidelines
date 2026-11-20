@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `eb2-guidelines` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill that audits an EB-2 NIW dossier like a USCIS adjudicator and tracks RFE risk.
+This repo packages the `eb2-guidelines` agent skill. Agent skill that audits an EB-2 NIW dossier like a USCIS adjudicator and tracks RFE risk.
 
 ## Layout
 
